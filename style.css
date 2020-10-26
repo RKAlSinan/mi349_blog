@@ -1,0 +1,101 @@
+html    {
+        background-color: rgb(255, 252, 209);
+                
+        }
+        
+body    {
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(255, 250, 244);
+        margin: 80px;
+        padding: 50px;
+        border-left: 10px solid cadetblue;
+        }
+
+h1      {
+        margin: 0px;
+                        
+                                        
+        }
+
+.blog-about-contact {
+        
+        border-bottom: 1px solid rgb(153, 189, 192);          
+        text-align: center;
+        list-style-type: none; /* This will remove the dotted list*/
+        font-family: 'Chelsea Market', cursive;
+        
+        
+        }
+
+
+
+#blog-traveling-stories {
+        border: 3px dotted rgb(153, 189, 192);
+
+        }
+
+.h2-Traveling-Stories {
+
+        border-bottom: 3px dotted rgb(153, 189, 192);
+        padding-bottom: 15px;
+        margin: 15px;
+
+        }
+                
+
+                        
+.blog-post      {
+        border-bottom: 5px solid rgb(153, 189, 192);
+        padding: 25px;
+        margin: 15px;
+
+
+                }
+                        
+p       {
+        line-height: 1.6em;
+        padding: 15px;
+        
+
+
+        }
+table   {
+        text-align: left;
+
+        
+        }
+                        
+th      {
+        background-color: salmon;
+        padding: 10px;
+        
+                        
+        }
+                        
+td      {
+        background-color: rgb(221, 221, 221);
+        padding: 10px;
+                        
+        }
+
+     
+a[href] { /* This alter links*/
+        color: rgb(218, 88, 189);
+        
+        }
+
+.sign-up {
+        padding-top:40px;
+        text-align: center;
+        background-color: cadetblue;
+        padding-bottom: 40px;
+        margin-top: 40px;
+        
+        }  
+
+
+        
+
+
+
+
