@@ -132,7 +132,7 @@ aside:nth-of-type(3) { flex: 1;         }
         
 }
 
-@media (max-width: 900px) {
+@media (max-width: 400px) {
 
 
         body { margin: 5%; padding: 5%;}
